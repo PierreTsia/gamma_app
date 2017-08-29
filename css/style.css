@@ -6,6 +6,10 @@ body {
   text-align: center;
 }
 
+section{
+padding-top:40px;
+padding-bottom: 40px;
+}
 .em-text{
   color:#1caa98 !important
 }
@@ -31,4 +35,10 @@ body {
 .jumbotron .showcase-img {
   width: 75%;
 
+}
+
+#middle .demo {
+  width:100%;
+  padding: 3px;
+  border:1px solid grey;
 }
