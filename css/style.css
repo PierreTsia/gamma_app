@@ -49,7 +49,7 @@ padding-bottom: 40px;
 section#feature{
   background:#1caa98;
   color:#fff;
-  paddiing:40px;
+  padding:40px;
   overflow:auto;
 }
 
@@ -164,6 +164,10 @@ footer p{
      float: none;
      text-align: center;
      padding-top: 20px;
+   }
+
+   section#contact form .btn{
+     margin-bottom: 20px;
    }
 
 }
